@@ -1,8 +1,8 @@
 ### :ocean: **Coventine O.**
 > Artist, writer, psychologist, data dabbler, and aspiring librarian.
 
-<img align="left" width="15%" src="https://puyonexus.com/mediawiki/images/c/c3/Img430517_l.png" alt="Lucid Stargazer Klug">
-<img align="right" width="15%" src="https://puyonexus.com/mediawiki/images/9/91/Img138307_ss.png" alt="Even Stranger Klug">
+<img align="left" width="20%" src="https://puyonexus.com/mediawiki/images/8/82/Img430507_ss.png" alt="Lucid Stargazer Klug">
+<img align="right" width="20%" src="https://puyonexus.com/mediawiki/images/9/91/Img138307_ss.png" alt="Even Stranger Klug">
 
 :thought_balloon: Mostly familiar with R, but I'm currently learning SQL and Python.
 
