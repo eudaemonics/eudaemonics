@@ -1,6 +1,5 @@
-<img align="left" width="150px" src="https://puyonexus.com/mediawiki/images/9/91/Img138307_ss.png">
 ### :ocean: **Coventine O.**
-
+<img align="left" width="150px" src="https://puyonexus.com/mediawiki/images/9/91/Img138307_ss.png">
 Psychologist, artist, data dabbler, and aspiring librarian.
 
 - Mostly familiar with R, but I'm currently learning SQL and Python.
